@@ -1,3 +1,6 @@
+/*
+generates a random number
+*/
 package main
 
 import (
